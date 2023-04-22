@@ -1,3 +1,30 @@
 @font-face {
     font-family: 'Open Sans', 'Raleway', sans-serif;
 }
+
+:root {
+    --white: #FFFFFF;
+    --white-less: #F7F7F7;
+    --grey-less: #E8E9ED;
+    --grey-light: #00000029;
+    --grey: #A5A5A5;
+    --grey-dark-light: #95989A;
+    --grey-dark: #707070;
+    --black: #000000;
+    --blue-light: #07ACE629;
+    --blue-prime: #08A6E4;
+    --blue-second: #07ACE6;
+    --blue-dark: #13253B;
+    --pink: #F9043629;
+    --pink-second: #FF091129;
+    --red: #FB3B64;
+    --red-strong: #EB476E;
+    --green: #55DFB4;
+
+    --open-sans: 'Open Sans';
+    --raleway: 'Raleway';
+}
+
+* {
+    box-sizing: border-box;
+}
